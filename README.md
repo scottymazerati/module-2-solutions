@@ -1,5 +1,3 @@
 <!DOCTYPE>
 <html>
-
-# module-2-solutions
-first coding assignment 
+<title>OUR MENU</title> 
